@@ -1,0 +1,10 @@
+﻿.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.env
+.DS_Store
